@@ -1,11 +1,11 @@
 Projeto Somatório de Números Múltiplos de 3 ou 5
+
 Este projeto consiste em uma simples função em JavaScript que calcula o somatório de todos os números menores que um determinado valor (numero) e que são múltiplos de 3 ou 5. Abaixo estão as instruções sobre como rodar o projeto e como testá-lo.
 
 Como Rodar o Projeto
 Para rodar o projeto, siga as instruções abaixo:
 
 Clone o Repositório:
-
 
 git clone https://github.com/Keven1995/teste_escribo.git
 cd nome-do-repositorio
